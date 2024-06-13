@@ -10,7 +10,7 @@ router.post("/users", registerUserController)
 
 // Punto 1: Crear la ruta
 // Punto 2: invocar al controlador (GET)
-router.get("/users/", loginUserController)
+router.get("/users", loginUserController)
 
 // Exportar por defecto la variable router (EJS)
 export default router;
