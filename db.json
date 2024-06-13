@@ -1,0 +1,41 @@
+{
+  "cliente": [
+    {
+      "id": "6c2ed965-47e7-4617-9a90-0ebcadbbc25c",
+      "nombre": "Jose",
+      "edad": 26,
+      "ciudad": "Quito"
+    },
+    {
+      "id": "b4a73a5d-8930-4942-9013-c250bb8a3748",
+      "nombre": "Jose",
+      "edad": 26,
+      "ciudad": "Quito",
+      "rol": "Administrador"
+    },
+    {
+      "id": "d45a9215-17fd-4a76-a5c7-60c8bfe0f841",
+      "password": "156243",
+      "username": "Jose",
+      "age": 26,
+      "city": "Quito",
+      "role": "Administrador"
+    },
+    {
+      "id": "74309798-50a8-4b94-a3f9-a7c3ce6cb93a",
+      "password": "156243",
+      "username": "Jose1",
+      "age": 26,
+      "city": "Quito",
+      "role": "Administrador"
+    },
+    {
+      "id": "c7fc56f1-e234-4dec-add9-2eda6c07dc45",
+      "username": "Jose2",
+      "password": "$2b$10$UPI.UYlRE/ebMKPK27VQEetk4Wk4AtkmmYDNhhYIoVt2iqFwBuP0.",
+      "age": 26,
+      "city": "Quito",
+      "role": "Administrador"
+    }
+  ]
+}

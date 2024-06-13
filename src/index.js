@@ -1,4 +1,4 @@
-import app from "./server";
+import app from "./server.js";
 
 // Inicializamos el servidor
 app.listen(3000, () => {
